@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-   int n=0,a=1,b=1,somma=a+b;
+   int a=1,b=1;
  
    cout<<a<<endl<<b<<endl;
    for (i=1;i<=n;i++) {
